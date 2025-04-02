@@ -1,5 +1,6 @@
 # Video-Processing
-This project was created during my university's "MULTIMEDIA SYSTEMS" course<br><br>
+This project was created during my university's "MULTIMEDIA SYSTEMS" course.<br>
+Language: Python<br><br>
 
 File 1a in folder "Folder "> "A" gets a video as input and performs lossless compression using Run Length Encoding.<br><br>
 
